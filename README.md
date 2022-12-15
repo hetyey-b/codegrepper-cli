@@ -1,5 +1,5 @@
 # Code Grepper CLI
-Command Line Interface for Code Grepper 
+Command Line Interface for searching the code snippets of [Code Grepper](https://www.codegrepper.com/).
 ![example screenshot](https://raw.githubusercontent.com/hetyey-b/codegrepper-cli/main/readme/screenshot_1.jpg)
 
 ## Getting Started
